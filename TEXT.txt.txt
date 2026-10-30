@@ -1,0 +1,10 @@
+
+---
+
+### 📄 2. `app.yaml` (Configuración de la placa)
+Copia esto y guárdalo como `app.yaml`:
+
+```yaml
+name: Camara de Seguridad IA
+ports:
+- 7000
